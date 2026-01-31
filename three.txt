@@ -1,3 +1,2 @@
 three
-hello three
 333
